@@ -10,7 +10,7 @@
   closed, the pipe can be deallocated by the kernel.
 
   In this example two pipes A and B are created. Experiment by closing none, one
-  or both of the pipe B descriptors before creating pipe B and try to predict
+  or both of the pipe A descriptors before creating pipe B and try to predict
   the pipe B file descriptor values.
 
   2021-02-11
